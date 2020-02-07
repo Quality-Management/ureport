@@ -1,3 +1,112 @@
+v1.1.131
+----------
+ * Merge pull request #554 from rapidpro/fix-geojson
+ * Update countries geoJSON
+
+v1.1.130
+----------
+ * Merge pull request #553 from rapidpro/add-fsm
+ * Add FSM icon
+
+v1.1.129
+----------
+ * Merge pull request #552 from rapidpro/fix-active-users-charts-data
+ * Active users are stored by month only so use the date for the month
+
+v1.1.128
+----------
+ * Merge pull request #551 from rapidpro/squash-stats-part-2
+ * Add migrations
+ * Add squash method and task
+
+v1.1.127
+----------
+ * Merge pull request #550 from rapidpro/squash-stats-part-1
+ * Update Django
+ * Add is_squashed field to stats model
+ * Update CHANGELOG.md for v1.1.126
+ * Merge pull request #549 from rapidpro/remove-ca
+ * Remove CA flag
+
+v1.1.126
+----------
+ * Merge pull request #549 from rapidpro/remove-ca
+ * Remove CA flag
+
+v1.1.125
+----------
+ * Merge pull request #547 from rapidpro/pacific-flag
+ * Add Pacific flag
+ * Update CHANGELOG.md for v1.1.124
+ * Rebuild locales, with symlinks
+ * Rebuild locales
+ * Rebuild locales
+ * Rebuild locales
+ * Rebuild locales
+ * Compile messages
+ * Merge pull request #546 from rapidpro/fix-flags
+ * Merge pull request #544 from rapidpro/translations_django-po--master_bs
+ * Add Botswana flag, fix links properly
+ * Translate /locale/en/LC_MESSAGES/django.po in bs
+
+v1.1.124
+----------
+ * Rebuild locales, with symlinks
+ * Rebuild locales
+ * Rebuild locales
+ * Rebuild locales
+ * Rebuild locales
+ * Compile messages
+ * Merge pull request #546 from rapidpro/fix-flags
+ * Merge pull request #544 from rapidpro/translations_django-po--master_bs
+ * Add Botswana flag, fix links properly
+ * Translate /locale/en/LC_MESSAGES/django.po in bs
+
+v1.1.123
+----------
+ * Update JS deps
+ * Rebuild locales
+ * Merge pull request #538 from Ilhasoft/update/costa-rica-flag
+ * Merge pull request #540 from rapidpro/translations_django-po--master_ro
+ * Translate /locale/en/LC_MESSAGES/django.po in ro
+ * Added flag for Costa Rica
+
+v1.1.122
+----------
+ * Rebuild locales
+ * Merge pull request #534 from rapidpro/translations_django-po--master_pt_BR
+ * Merge pull request #537 from rapidpro/deps-update
+ * Merge pull request #536 from Ilhasoft/fixing/new-behaviour-in-python-3.7
+ * Update deps
+ * Adjustments on chunk_list(iterable, size), to avoid a runtime error 'generator raised StopIteration'
+ * Apply translations in pt_BR
+
+v1.1.121
+----------
+ * Include GA on the v2 public site
+
+v1.1.120
+----------
+ * Merge pull request #535 from rapidpro/fix-poll-gender-for-gender-custom-labels
+ * Fix gender stats with custom gender labels
+
+v1.1.119
+----------
+ * Merge pull request #533 from Ilhasoft/hotfix/img_sizing_on_stories_v1
+ * Fixing on image responsivity while scaling large images on story detail
+
+v1.1.118
+----------
+ * Merge pull request #521 from rapidpro/old-poll-results-clear
+ * Fix conflicts and merge master
+ * Rebuild locale
+ * Merge pull request #532 from rapidpro/translations_django-po--master_sr_RS@latin
+ * Merge branch 'master' into translations_django-po--master_sr_RS@latin
+ * Merge pull request #527 from Ilhasoft/feature/enable_serbian_latin_serbia_language
+ * Apply translations in sr_RS@latin
+ * remove sr_latn from languages on settings_common
+ * enable locale for Serbian Latin Serbia language
+
 v1.1.116
 ----------
  * Merge pull request #531 from rapidpro/language-fix

@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-22 12:46+0000\n"
+"POT-Creation-Date: 2020-01-10 15:03+0000\n"
 "PO-Revision-Date: 2019-05-15 20:27+0000\n"
 "Last-Translator: Abraham Okiror <okiroribra@gmail.com>, 2019\n"
 "Language-Team: Arabic (https://www.transifex.com/rapidpro/teams/226/ar/)\n"
@@ -281,8 +281,10 @@ msgstr "نوع الخلفية "
 msgid "The image file"
 msgstr "ملف الصورة "
 
+#, fuzzy
+#| msgid "The title for this item"
 msgid "The API token for this backend"
-msgstr ""
+msgstr "عنوان البند "
 
 #, python-format
 msgid ""
@@ -356,8 +358,10 @@ msgstr "رابط الدعوة الخاص بك لا يعمل، الرجاء ال�
 msgid "Join %(name)s"
 msgstr "إنضم الى %(name)s"
 
+#, fuzzy
+#| msgid "Join Now"
 msgid "Join"
-msgstr ""
+msgstr "انضم الآن!"
 
 msgid "Your invitation link has expired. Please contact your organization administrator."
 msgstr "لقد إنتهت الفترة المخصصة لرابط الدعوة الخاصة بك، الرجاء التوصل مع المشرف في منظمتك. "
@@ -1331,9 +1335,6 @@ msgstr ""
 msgid "+ New Poll"
 msgstr ""
 
-msgid "Poll Results Data"
-msgstr ""
-
 msgid "Refresh Results"
 msgstr ""
 
@@ -1608,6 +1609,11 @@ msgstr "عدد المبلّغين الذين شملهم الاستطلاع "
 
 msgid "Whether the poll has finished the initial results sync."
 msgstr "ما إذا أتم  الاستطلاع مزامنة النتائج الأولية."
+
+#, fuzzy
+#| msgid "Whether this org should be show on the landing page"
+msgid "Whether the poll should stop regenerating stats."
+msgstr "بحال كان المحتوى يجب أن يظهر على الصفحة المقصودة"
 
 msgid "The title for this Poll"
 msgstr "عنوان الإستطلاع "
